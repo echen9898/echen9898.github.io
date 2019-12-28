@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple Patient Monitor Recorder with OCR"
-image: "/assets/images/patient_monitor.png"
+image: "/assets/images/patient_monitor.jpg"
 date: 2019-08-01
 ---
 

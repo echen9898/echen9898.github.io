@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crowdsourcing Platform for Rapid Disease Diagnostics"
-image: "/assets/images/rdx.png"
+image: "/assets/images/rdx.jpg"
 date: 2019-09-20
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dynamic Motion Planning using Lazy Heuristics"
-image: "/assets/images/lazy_planning.png"
+image: "/assets/images/lazy_planning.jpg"
 date: 2019-11-15
 ---
 
