@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eric Chen
-image: "/assets/images/profile.jpg"
+image: "/assets/profiles/profile.jpg"
 ---
 
 		<div>
@@ -10,14 +10,14 @@ image: "/assets/images/profile.jpg"
 			<h1 class="home_page">Eric Chen</h1>
 
             <span id="contact_info">
-                <a class="contact_info" href="/assets/documents/resume.pdf">CV</a>
-                <a class="contact_info" href="mailto:echen9898@gmail.com">email</a>
-                <a class="contact_info" href="https://github.com/echen9898">github</a>
+                <a class="contact_info"  target="_blank" href="mailto:echen9898@gmail.com">email</a>
+                <a class="contact_info"  target="_blank" href="https://github.com/echen9898">github</a>
+                <a class="contact_info"  target="_blank" href="/assets/resume.pdf">CV</a>
             </span>
 
             <!-- About Me -->
-            <h4 class="home_page">About me</h4>
-			<p>I am currently a 4th year undergrad at MIT double majoring in Physics and Electrical Engineering / Computer Science (EECS). My research interests include general artificial intelligence and robotics, and I'm fortunate enough to be working on these topics with <a href="https://people.csail.mit.edu/pulkitag/">Prof. Pulkit Agrawal</a>. I was born and raised in Berkeley CA, and in my free time I love eating <a href="https://www.in-n-out.com/">In-N-Out</a> and spending time with my family.
+            <h4 class="home_page">About</h4>
+			<p>I'm currently a masters student at MIT's CSAIL researching <strong>robotics and deep reinforcement learning</strong> with <a  target="_blank" href="https://people.csail.mit.edu/pulkitag/">Prof. Pulkit Agrawal</a>. I'm specifically interested in intrinsic motivation, and its application to continual learning. I grew up in Berkeley CA, and did my undergraduate at MIT where I double majored in <strong>Physics and Electrical Engineering and Computer Science</strong>. In my free time I like fixing bikes, playing the piano, and spending time with my family!
             </p>
 
             <!-- Projects -->
@@ -26,7 +26,7 @@ image: "/assets/images/profile.jpg"
             {% for post in site.posts %}
                 <span id="project_listing">
                     <img class="project_listing" src="{{ post.image }}" alt="" width=100 height=100 />
-                    <a href="{{ post.url }}" class="project_listing">
+                    <a  target="_blank" href="{{ post.url }}" class="project_listing">
                     {{ post.title }}
                     </a>
                 </span>
