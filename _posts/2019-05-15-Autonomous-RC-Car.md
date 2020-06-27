@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Autonomous RC Car"
-image: "/assets/profiles/car.jpg"
+rank: 5
+image: "/assets/profiles/car.png"
 date: 2019-05-15
 skills: "ROS, Tensorflow, Python, OpenCV, Linux"
 ---

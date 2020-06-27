@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Physics JLab"
+rank: 9
 image: "/assets/profiles/jlab.jpg"
 date: 2018-12-23
 skills: "Python, electrical"

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Trajectory Optimization on an Autonomous Boat"
+rank: 1
 image: "/assets/profiles/boat.png"
 date: 2020-05-30
 skills: "Drake, Python, Optimization"

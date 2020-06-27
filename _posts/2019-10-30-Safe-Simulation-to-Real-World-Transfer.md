@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Safe Simulation to Real World Transfer for an RL Agent"
-image: "/assets/profiles/blind_spots.jpg"
+rank: 2
+image: "/assets/profiles/blindspot.png"
 date: 2019-10-30
 skills: "ROS, Python, C++, Linux, reinforcement learning"
 ---
@@ -10,7 +11,7 @@ ___
 
 <p>&nbsp;</p>
 
-**Resources: [code](https://github.com/echen9898/safe_rl){:target="_blank"}**
+**Resources: [robot code](https://github.com/echen9898/safe_rl){:target="_blank"}, [learning code](https://github.com/ramya-ram/discovering-blind-spots){:target="_blank"}**
 
 <p>&nbsp;</p>
 

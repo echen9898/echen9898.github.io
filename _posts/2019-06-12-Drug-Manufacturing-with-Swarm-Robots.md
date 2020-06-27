@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Chemical Assays with Swarm Robots"
+rank: 8
 image: "/assets/profiles/swarm.jpg"
 date: 2019-06-12
 skills: "C, C++, Python, CAD, PCB design"

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crowdsourcing Platform for Rapid Disease Diagnostics"
+rank: 7
 image: "/assets/profiles/rdx.jpg"
 date: 2019-09-20
 skills: "Python, OpenCV, Tensorflow, AWS, Linux, CAD, electronics"

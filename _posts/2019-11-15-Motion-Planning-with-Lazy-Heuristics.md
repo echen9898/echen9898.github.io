@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dynamic Motion Planning using Lazy Heuristics"
+rank: 4
 image: "/assets/profiles/lazy_planning.jpg"
 date: 2019-11-15
 skills: "Julia"

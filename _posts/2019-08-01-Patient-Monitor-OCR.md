@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Patient Monitor Recorder with OCR"
-image: "/assets/profiles/patient_monitor.jpg"
+rank: 6
+image: "/assets/profiles/monitor.png"
 date: 2019-08-01
 skills: "Keras, OpenCV, Python"
 ---
